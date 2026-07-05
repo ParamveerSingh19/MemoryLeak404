@@ -137,7 +137,7 @@ http://localhost:3000
 
 ## 👨‍💻 Author
 
-Made with ❤️ by **Paramveer Singh**
+Made by [Paramveer Singh](https://github.com/ParamveerSingh19)
 
 ---
 
