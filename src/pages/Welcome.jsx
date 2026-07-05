@@ -103,9 +103,6 @@ export default function Welcome({ bestTimes, onStart, onClearBest }) {
           >
             <Trash2 size={13} /> reset best times
           </button>
-          <span className="ml-foot-note">
-            built with react · no accounts · no tracking of scores
-          </span>
         </div>
       </section>
 
