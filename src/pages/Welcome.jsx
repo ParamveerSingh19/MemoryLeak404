@@ -19,9 +19,9 @@ export default function Welcome({ bestTimes, onStart, onClearBest }) {
       {/* HERO */}
       <header className="ml-hero">
         <div className="ml-hero__meta">
-          <span className="ml-tag">v1.0 · offline · react</span>
+          <span className="ml-tag">Offline</span>
           <span className="ml-tag ml-tag--live">
-            <span className="ml-tag__dot" /> online
+            <span className="ml-tag__dot" /> Online
           </span>
         </div>
 
