@@ -19,10 +19,6 @@ export default function Welcome({ bestTimes, onStart, onClearBest }) {
       {/* HERO */}
       <header className="ml-hero">
         <div className="ml-hero__meta">
-          <span className="ml-tag">Offline</span>
-          <span className="ml-tag ml-tag--live">
-            <span className="ml-tag__dot" /> Online
-          </span>
         </div>
 
         <h1 className="ml-title" data-glitch="MemoryLeak">
