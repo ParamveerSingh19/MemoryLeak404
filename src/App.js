@@ -89,13 +89,6 @@ function App() {
           />
         )}
       </main>
-
-      <footer className="ml-footer" aria-hidden="true">
-        <span>
-          &gt; memoryleak404.sys · handcrafted with react · run local · press
-          ESC for pause
-        </span>
-      </footer>
     </div>
   );
 }
