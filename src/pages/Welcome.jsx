@@ -58,7 +58,7 @@ export default function Welcome({ bestTimes, onStart, onClearBest }) {
             <Cpu size={16} /> select difficulty
           </h2>
           <p className="ml-section__sub">
-            5 stages of increasing chaos. Your best time is stored locally.
+            5 stages of increasing chaos.
           </p>
         </div>
 
