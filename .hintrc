@@ -9,10 +9,12 @@
       "default",
       {
         "ignore": [
-          "@layer"
+          "@layer",
+          "backdrop-filter"
         ]
       }
-    ]
+    ],
+    "css-prefix-order": "off"
   },
   "browserslist": [
     "defaults",
