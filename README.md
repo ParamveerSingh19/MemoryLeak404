@@ -124,8 +124,6 @@ Then open:
 http://localhost:3000
 ```
 
-> **Note:** This project uses **Yarn** instead of npm.
-
 ---
 
 ## ♿ Accessibility
